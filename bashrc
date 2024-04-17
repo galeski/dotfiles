@@ -197,3 +197,6 @@ bind 'set completion-ignore-case on'
 
 # Disable alternate screen in less globally
 # export LESS="-X -R"
+
+# alias xdg-open to open ala mac
+alias open=xdg-open
